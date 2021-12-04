@@ -2,7 +2,7 @@
 
 - Rising junior majoring in Computer Science at Minerva University.
 - Programming languages: Python, Javascript, R
-Pronouns: She/Her/Hers
+- Pronouns: She/Her/Hers
 
 # Interests 👀
 
