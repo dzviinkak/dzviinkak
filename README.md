@@ -8,6 +8,7 @@
 
 - Machine Learning and its applications
 - Entrepreneurship/Startups/Venture
+- Software Engineering
 
 # Clubs and Affiliations 🌱
 - Leader of Women+ in CS Society at Minerva University. Recruited 30+ members, and implemented a mentorship program among students and alumni.
