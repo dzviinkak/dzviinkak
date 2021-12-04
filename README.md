@@ -10,7 +10,7 @@
 - Entrepreneurship/Startups/Venture
 
 # Clubs and Affiliations 🌱
-- Co-founder and leader of Women+ in CS Society at Minerva University. Recruited 30+ members, and implemented a mentorship program among students and alumni.
+- Leader of Women+ in CS Society at Minerva University. Recruited 30+ members, and implemented a mentorship program among students and alumni.
 
 # Contact me 📫 
 
