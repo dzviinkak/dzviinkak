@@ -16,8 +16,8 @@ Pronouns: She/Her/Hers
 
 Feel free to reach out for a chat!
 
-You can fill in the contact form on www.dzvenyslava-koman.com to reach me
-LinkedIn: https://www.linkedin.com/in/dzvenyslava-koman/
+- You can fill in the contact form on www.dzvenyslava-koman.com to reach me
+- LinkedIn: https://www.linkedin.com/in/dzvenyslava-koman/
 
 
 <!---
